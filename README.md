@@ -26,9 +26,13 @@ Easy-to-understand and extend
 
 ▶️ How to Run
 Install dependencies:
+
 ```pip install opencv-python mediapipe```
+
 Run the project:
+
 ```python ASL.py```
+
 Controls:
 Press spacebar to toggle mode (if used)
 Press q to quit
