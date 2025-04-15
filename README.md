@@ -32,7 +32,3 @@ Install dependencies:
 Run the project:
 
 ```python ASL.py```
-
-Controls:
-Press spacebar to toggle mode (if used)
-Press q to quit
